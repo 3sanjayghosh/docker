@@ -15,7 +15,7 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
+<maven.compiler.source>11</maven.compiler.source> <maven.compiler.target>11</maven.compiler.target>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-tomcat</artifactId>
